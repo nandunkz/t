@@ -16,13 +16,13 @@ echo -e " ║║║║║║║═╣║║║╚╝║" | lolcat -a
 echo -e " ╚╝╚╝╚╩══╩╝╚╩══╝" | lolcat -a
 echo -e ""
 echo -e ""
-echo -e "   [1] Mengelola Akun Member " | lolcat -a
+echo -e "   [1] Mengelola Akun Member "
 echo -e ""
-echo -e "   [2] Mengelola Server " | lolcat -a
+echo -e "   [2] Mengelola Server "
 echo -e ""
-echo -e "   [3] Opsi Lanjutan " | lolcat -a
+echo -e "   [3] Opsi Lanjutan "
 echo -e ""
-echo -e "   [4] Keluar" | lolcat -a
+echo -e "   [4] Keluar"
 echo -e ""
 read -p "$(echo -e " Tentukan Pilihanmu\e[32m [\e[0m1-5\e[32m]\e[0m: ")" menu
 echo -e ""
